@@ -13,7 +13,6 @@ env/
 venv/
 
 # dotenv
-.env
 .env.*
 
 # VSCodeなどのエディタ設定
